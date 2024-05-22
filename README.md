@@ -12,7 +12,7 @@ SO THAT my company can compete with other e-commerce companies
 
 This project involves developing the backend for an e-commerce website using Express.js and Sequelize to interact with a MySQL database. The backend functionality enables the e-commerce application to retrieve, create, update, and delete inventory items.
 
-Video Link for illustration of operations: https://youtu.be/QqL3060-Yps
+Video Link for illustration of operations: https://youtu.be/SstlEiOWwkQ
 
 ## What I Learned
   
